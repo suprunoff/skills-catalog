@@ -1,0 +1,21 @@
+Rank,Repository,Author,Stars,Forks,Fork Rate,Type,Description,Platform,Last Updated,URL
+1,anthropics/skills,Anthropic,94961,10192,10.7%,official,Official Anthropic Agent Skills repository,Claude Code,2026-03-16T19:16:21Z,https://github.com/anthropics/skills
+2,obra/superpowers,obra,88226,6969,7.9%,framework,Agentic skills framework & software development methodology,Multi,2026-03-16,https://github.com/obra/superpowers
+3,VoltAgent/awesome-openclaw-skills,VoltAgent,38319,3675,9.6%,collection,"Curated collection of 5,400+ OpenClaw skills",OpenClaw,2026-03-16T17:30:00Z,https://github.com/VoltAgent/awesome-openclaw-skills
+4,github/awesome-copilot,GitHub,25390,2920,11.5%,collection,Community instructions + agents for GitHub Copilot,Copilot,2026-03-16,https://github.com/github/awesome-copilot
+5,sickn33/antigravity-awesome-skills,sickn33,24905,4264,17.1%,collection,1000+ agentic skills for Claude Code / Antigravity / Cursor,Multi,2026-03-16,https://github.com/sickn33/antigravity-awesome-skills
+6,vercel-labs/agent-skills,Vercel Labs,23112,2078,9.0%,official,Vercel official agent skills collection,Multi,2026-03-16,https://github.com/vercel-labs/agent-skills
+7,OthmanAdi/planning-with-files,OthmanAdi,16207,1490,9.2%,skill,Claude Code skill for persistent markdown planning,Claude Code,2026-03-16,https://github.com/OthmanAdi/planning-with-files
+8,K-Dense-AI/claude-scientific-skills,K-Dense-AI,15158,1666,11.0%,collection,Ready-to-use Agent Skills for research + science,Claude Code,2026-03-16,https://github.com/K-Dense-AI/claude-scientific-skills
+9,muratcankoylan/Agent-Skills-for-Context-Engineering,muratcankoylan,13914,1075,7.7%,collection,Comprehensive collection for context engineering + multi-agent,Multi,2026-03-16,https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering
+10,wasp-lang/open-saas,Wasp Lang,13588,1559,11.5%,framework,Modern SaaS boilerplate with AI-ready AGENTS.md + skills,Multi,2026-03-16T17:46:02Z,https://github.com/wasp-lang/open-saas
+11,kepano/obsidian-skills,kepano,14331,794,5.5%,collection,Agent skills for Obsidian (Markdown + Bases + JSON Canvas),Obsidian,2026-03-16,https://github.com/kepano/obsidian-skills
+12,agentskills/agentskills,agentskills,13271,764,5.8%,spec,Specification and documentation for Agent Skills standard,Spec,2026-03-16,https://github.com/agentskills/agentskills
+13,VoltAgent/awesome-agent-skills,VoltAgent,11471,1080,9.4%,collection,Claude Code Skills + 500+ community agent skills,Multi,2026-03-16,https://github.com/VoltAgent/awesome-agent-skills
+14,vercel-labs/skills,Vercel Labs,10469,854,8.2%,tool,Open agent skills CLI tool - npx skills,Tool,2026-03-16,https://github.com/vercel-labs/skills
+15,blader/humanizer,blader,9531,765,8.0%,skill,Claude Code skill that removes AI-generated writing patterns,Claude Code,2026-03-16,https://github.com/blader/humanizer
+16,phuryn/pm-skills,phuryn,7400,716,9.7%,collection,PM Skills Marketplace - 100+ agentic skills + plugins,Multi,2026-03-16,https://github.com/phuryn/pm-skills
+17,alirezarezvani/claude-skills,alirezarezvani,5381,620,11.5%,collection,+192 Claude Code skills for multiple platforms,Multi,2026-03-16,https://github.com/alirezarezvani/claude-skills
+18,op7418/Humanizer-zh,op7418,4841,415,8.6%,skill,Chinese localization of Humanizer skill,Claude Code,2026-03-16,https://github.com/op7418/Humanizer-zh
+19,trailofbits/skills,Trail of Bits,3602,290,8.0%,collection,Security-focused Claude Code skills,Claude Code,2026-03-16,https://github.com/trailofbits/skills
+20,microsoft/skills,Microsoft,1746,188,10.8%,official,Skills + MCP servers + Agents.md,Multi,2026-03-16T16:29:41Z,https://github.com/microsoft/skills
